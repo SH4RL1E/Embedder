@@ -1,3 +1,3 @@
 {pkgs}: {
-  deps = [ pkgs.chromium ];
+  deps = [ pkgs.chromiums ];
 }
